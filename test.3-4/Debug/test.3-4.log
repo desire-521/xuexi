@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\desire\Desktop\jiayou\test.3-4\test.c(61,11): warning C4047: “return”:“char *”与“int”的间接级别不同
+C:\Users\desire\Desktop\jiayou\test.3-4\test.c(65,12): warning C4047: “return”:“char *”与“int”的间接级别不同
+C:\Users\desire\Desktop\jiayou\test.3-4\test.c(70,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  test.3-4.vcxproj -> C:\Users\desire\Desktop\jiayou\test.3-4\Debug\test.3-4.exe

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\desire\Desktop\jiayou\test.3_3\test.c(22): warning C4716: “my_mevove”: 必须返回一个值
+  test.3_3.vcxproj -> C:\Users\desire\Desktop\jiayou\test.3_3\Debug\test.3_3.exe
