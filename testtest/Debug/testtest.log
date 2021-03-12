@@ -1,0 +1,8 @@
+﻿  test.c
+  test1.c
+C:\Users\desire\Desktop\xuexi\testtest\test1.c(26,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\desire\Desktop\xuexi\testtest\test1.c(85,10): warning C4477: “printf”: 格式字符串“%-12s”需要类型“char *”的参数，但可变参数 4 拥有了类型“const int *”
+C:\Users\desire\Desktop\xuexi\testtest\test1.c(114,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\desire\Desktop\xuexi\testtest\test1.c(135,11): warning C4477: “printf”: 格式字符串“%-12s”需要类型“char *”的参数，但可变参数 4 拥有了类型“const int *”
+  正在生成代码...
+  testtest.vcxproj -> C:\Users\desire\Desktop\xuexi\testtest\Debug\testtest.exe
